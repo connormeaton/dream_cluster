@@ -1,0 +1,5 @@
+# This link provided a framework for PRAW code
+https://towardsdatascience.com/scraping-reddit-with-praw-76efc1d1e1d9
+
+# This link provides docs for GENSIM
+https://radimrehurek.com/gensim/index.html
