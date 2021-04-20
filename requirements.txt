@@ -186,7 +186,7 @@ protobuf==3.6.1
 psutil==5.5.1
 psycopg2==2.7.6.1
 ptyprocess==0.6.0
-py==1.7.0
+py==1.10.0
 py-glm==0.0.1
 PyAudio==0.2.11
 pycodestyle==2.5.0
