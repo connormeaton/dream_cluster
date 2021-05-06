@@ -70,7 +70,7 @@ fastparquet==0.2.1
 filelock==3.0.10
 Fiona==1.8.4
 Flask==1.0.2
-Flask-Cors==3.0.7
+Flask-Cors==3.0.9
 future==0.17.1
 gast==0.2.1.post0
 GDAL==2.3.3
