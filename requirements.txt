@@ -86,7 +86,7 @@ h5netcdf==0.6.2
 h5py==2.9.0
 heapdict==1.0.0
 hmmlearn==0.2.1
-html5lib==0.9999999
+html5lib==0.99999999
 idna==2.8
 imageio==2.4.1
 imagesize==1.1.0
